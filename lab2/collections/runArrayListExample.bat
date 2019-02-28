@@ -1,0 +1,1 @@
+@java -cp .. collections.ArrayListExample input.txt

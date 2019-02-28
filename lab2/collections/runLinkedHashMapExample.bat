@@ -1,0 +1,1 @@
+@java -cp .. collections.LinkedHashMapExample input.txt

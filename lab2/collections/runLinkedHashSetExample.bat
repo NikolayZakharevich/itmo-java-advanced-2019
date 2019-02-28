@@ -1,0 +1,1 @@
+@java -cp .. collections.LinkedHashSetExample input.txt
