@@ -1,1 +1,0 @@
-@java -cp .. collections.AlgorithmsExample input.txt

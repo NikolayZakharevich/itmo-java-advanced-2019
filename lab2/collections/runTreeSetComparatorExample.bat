@@ -1,1 +1,0 @@
-@java -cp .. collections.TreeSetComparatorExample input.txt

@@ -1,1 +1,0 @@
-/home/nikolay/ITMO/Java/lab1/src/a.txt
